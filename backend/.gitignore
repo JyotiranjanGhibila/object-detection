@@ -1,0 +1,43 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# VSCode or other IDE settings
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Python environment files
+*.env
+*.sqlite3
+
+# Logs
+*.log
+
+# Render build files (optional)
+build/
+dist/
+
+# Pytest cache
+.pytest_cache/
+
+# Migrations (optional if using DB migrations)
+migrations/
+
+# Coverage reports
+htmlcov/
+.coverage
+coverage.xml
+
+# MyPy
+.mypy_cache/
+.dmypy.json
