@@ -8,6 +8,7 @@ venv/
 env/
 .venv/
 .env/
+clean-env/
 
 # VSCode or other IDE settings
 .vscode/
