@@ -228,7 +228,7 @@ export default function Dashboard() {
                 🔵 Original Video
               </h3>
               <video
-                src="http://127.0.0.1:8000/static/uploads/e7a5e939-bc74-4da7-8815-b51aa1545767.mp4"
+                src="https://object-detection-4-tu7z.onrender.com/static/uploads/e7a5e939-bc74-4da7-8815-b51aa1545767.mp4"
                 controls
                 autoPlay
                 muted
@@ -243,7 +243,7 @@ export default function Dashboard() {
                 🟢 Processed Output
               </h3>
               <video
-                src="http://127.0.0.1:8000/static/results/67f03f89249fdcb690d6b30d.mp4"
+                src="https://object-detection-4-tu7z.onrender.com/static/results/67f03f89249fdcb690d6b30d.mp4"
                 controls
                 autoPlay
                 muted
